@@ -27,7 +27,7 @@
 | Intel Platform Trust |    |
 
 
-### 2.2  替换自己定制的三码
+### 2.2  定制三码
   **用GenSMBIOS-master软件生成三码，填入config文件，步骤简述如下：<br>**
 （1)打开“GenSMBIOS.bat”软件，按提示回车进入功能菜单；键入"3"，回车；输入"iMac19,1"，回车，三码生成完毕，先不要关闭此窗口。过程如下图：<br>
 ![image](https://github.com/nice52/Gigabyte-Z390-Gaming-X-Hackintosh-OC.0.7.3/blob/master/screenshot/%E4%B8%89%E7%A0%81%E6%9B%BF%E6%8D%A2/%E5%9B%BE%E7%89%871.png)
